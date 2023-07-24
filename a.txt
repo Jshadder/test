@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 this is new_br
+=======
+???
+this is merge test
+second test
+>>>>>>> Stashed changes
